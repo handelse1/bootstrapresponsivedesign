@@ -1,0 +1,78 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+.bg-primary {
+	background-color: purple !important;
+}
+
+.nav-link { color:#F7FFF7 !important; }
+
+.carousel-inner img {
+    max-width: 80%; /* Adjust to control image width */
+    max-height: 500px; /* Adjust to control image height */
+    margin: 0 auto; /* Centers images */
+    object-fit: contain; /* Ensures images maintain aspect ratio */
+}
+
+.carousel-control-prev-icon, 
+.carousel-control-next-icon {
+    background-color: #00A896;
+}
+
+#wicked, #showman, #chicago {
+	background-color: #00A896;
+}
+
+#wicked h2, #showman h2, #chicago h2, #wicked p, #showman p, #chicago p {
+	color: #F7FFF7;
+}
+
+h1 {
+	font-family: ltc-broadway-engraved, sans-serif;
+}
+
+h2{
+	font-family: ltc-broadway-engraved, sans-serif;
+	font-style: normal;
+}
+
+p, .navbar {
+	font-family: Lato;
+}
+
+#mamma, #grease {
+	background-color: #02C39A;
+}
+
+footer {
+	background: url(curtain.jpg) no-repeat top center;
+	background-size: cover;
+}
+
+
+footer, #mainNav{
+    background-color: #028090 !important;
+}
+
+header {
+    background-color: #F7FFF7;
+    color: #05668D; 
+}
+
+.btn {
+	background-color: #05668D;
+	color: #F7FFF7;
+}
+
+.navbar-brand {
+	font-family: ltc-broadway-engraved, sans-serif;
+	font-style: normal;
+}
+
+.fa-solid {
+	color: gold;
+	font-size: 200%;
+	margin-bottom: 8px;
+	text-shadow: 0 0 2px white, 0 0 5px white;
+}
+
